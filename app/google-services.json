@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "804494878924",
+    "firebase_url": "https://prueba-79714.firebaseio.com",
+    "project_id": "prueba-79714",
+    "storage_bucket": "prueba-79714.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804494878924:android:af444d0c400c81a8",
+        "android_client_info": {
+          "package_name": "com.example.candi.cuentacalorias"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804494878924-0o36av787bg4f0lueh0p9ldhd081ibnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPArNm6m_h7w6YvPyviufbgkzNNZM-zA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804494878924:android:1b0068ef834bf3af",
+        "android_client_info": {
+          "package_name": "com.example.candi.pruebadb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804494878924-0o36av787bg4f0lueh0p9ldhd081ibnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxPArNm6m_h7w6YvPyviufbgkzNNZM-zA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
